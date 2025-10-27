@@ -60,7 +60,6 @@ Este proyecto es de uso libre con fines educativos y de práctica. Podés modifi
 ---
 
 ## 👨‍💻 Autor
-
 <table>
   <tr>
     <td align="center">
@@ -68,7 +67,7 @@ Este proyecto es de uso libre con fines educativos y de práctica. Podés modifi
       <em>Desarrollador en formación</em><br>
       Proyecto personal de aprendizaje React<br>
       📍 Catamarca, Argentina<br><br>
-      💼 [LinkedIn](https://www.linkedin.com/feed/) | 🐙 [GitHub](https://github.com/BraianSalavarria)
+      💼 <a href="https://www.linkedin.com/feed/">LinkedIn</a> | 🐙 <a href="https://github.com/BraianSalavarria">GitHub</a><br><br>
       💬 <em>"Aprender haciendo es la mejor manera de dominar React."</em>
     </td>
   </tr>
