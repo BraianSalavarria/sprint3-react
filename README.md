@@ -35,19 +35,40 @@ Permite agregar productos, modificar cantidades, calcular subtotales y totales a
 ---
 
 ## 🏗️ Estructura del proyecto
+```
+carrito-compras/
+├── src/
+│   ├── context/
+│   │   └── CartContext.jsx
+│   ├── components/
+│   │   ├── CartItem.jsx
+│   │   ├── ProductList.jsx
+│   │   └── Total.jsx
+│   ├── assets/
+│   │   └── (imágenes de productos)
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+├── README.md
+└── vite.config.js
+```
 
-📦 carrito-compras
-┣ 📂 src
-┃ ┣ 📂 context
-┃ ┃ ┗ 📜 CartContext.jsx
-┃ ┣ 📂 components
-┃ ┃ ┣ 📜 CartItem.jsx
-┃ ┃ ┣ 📜 ProductList.jsx
-┃ ┃ ┗ 📜 Total.jsx
-┃ ┣ 📂 assets
-┃ ┃ ┗ 🎨 imágenes de productos
-┃ ┣ 📜 App.jsx
-┃ ┗ 📜 main.jsx
-┣ 📜 package.json
-┣ 📜 README.md
-┗ 📜 vite.config.js
+## 📄 Licencia
+
+Este proyecto es de uso libre con fines educativos y de práctica. Podés modificarlo, mejorarlo y usarlo como referencia.
+
+---
+
+## 👨‍💻 Autor
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Braian S.</strong><br>
+      <em>Desarrollador en formación</em><br>
+      Proyecto personal de aprendizaje React<br>
+      📍 Catamarca, Argentina<br><br>
+      💬 <em>"Aprender haciendo es la mejor manera de dominar React."</em>
+    </td>
+  </tr>
+</table>
