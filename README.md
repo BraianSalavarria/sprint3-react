@@ -20,12 +20,13 @@ Permite agregar productos, modificar cantidades, calcular subtotales y totales a
 - 🔢 **Cálculo automático** de subtotales y total general.  
 - 💅 **Diseño limpio y moderno** con efectos visuales suaves.  
 - ⚡ **Renderizado reactivo** sin recargar la página.
+- 🌙 **Modo oscuro**
 
 ---
 
 ## 🧩 Tecnologías utilizadas
 
-- **React** (Vite o Create React App, según la configuración original)  
+- **React** (Vite)  
 - **JavaScript (ES6+)**  
 - **HTML5 + CSS3**  
 - **LocalStorage API**  
@@ -35,3 +36,18 @@ Permite agregar productos, modificar cantidades, calcular subtotales y totales a
 
 ## 🏗️ Estructura del proyecto
 
+📦 carrito-compras
+┣ 📂 src
+┃ ┣ 📂 context
+┃ ┃ ┗ 📜 CartContext.jsx
+┃ ┣ 📂 components
+┃ ┃ ┣ 📜 CartItem.jsx
+┃ ┃ ┣ 📜 ProductList.jsx
+┃ ┃ ┗ 📜 Total.jsx
+┃ ┣ 📂 assets
+┃ ┃ ┗ 🎨 imágenes de productos
+┃ ┣ 📜 App.jsx
+┃ ┗ 📜 main.jsx
+┣ 📜 package.json
+┣ 📜 README.md
+┗ 📜 vite.config.js
