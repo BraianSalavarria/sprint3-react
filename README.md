@@ -8,7 +8,9 @@ Permite agregar productos, modificar cantidades, calcular subtotales y totales a
 ---
 
 ## 📸 Vista previa
-<img width="1902" height="1078" alt="vistaprevia" src="https://github.com/user-attachments/assets/13afff64-b2ba-4de0-a272-38e6bc8d77d7" />
+
+
+https://github.com/user-attachments/assets/7f19f3c0-734c-4e01-899a-e5657a2aa2f9
 
 ---
 
